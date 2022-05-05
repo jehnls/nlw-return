@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* TODO Aplicar css em global  */
+body {
+  @apply bg-[#09090A] text-zinc-100;
+}
